@@ -1,4 +1,4 @@
-module github.com/wizard-ssh/protobuf-validation
+module github.com/mdenushev/go-protobuf-validation
 
 go 1.15
 
